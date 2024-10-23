@@ -3,7 +3,7 @@
   inputs = {};
   outputs = { ... }@inputs:
   {
-    value = "I'm external2 2";
+    value = "I'm external2 3";
   };
 }
 
